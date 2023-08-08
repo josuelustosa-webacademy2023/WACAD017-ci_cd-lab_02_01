@@ -1,0 +1,15 @@
+{
+  "name": "lab-02_01",
+  "version": "1.0.0",
+  "description": "Simple project to a repository with a basic workflow",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josué Lustosa",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
